@@ -1,0 +1,141 @@
+{
+  "contrat": 1,
+  "id": "2026-11-01BJ31CSOTDA",
+  "nom": "BJ31 - CSO TDA",
+  "du": "2026-10-30",
+  "au": "2026-11-01",
+  "publie_le": "2026-10-29T07:20:10Z",
+  "adresses": [],
+  "photographes": [
+    "Jérémie",
+    "Aude",
+    "Simon",
+    "Chloé",
+    "Manuella",
+    "Isabelle",
+    "Louna"
+  ],
+  "messages": [
+    {
+      "id": "m1",
+      "jour": "2026-10-30",
+      "texte": "Pistes du jour :\nGrand hall 8h-18h45 (poneys et club GP, as poney) : Jérémie\nRouge 9h-17h (Pro 3, Am 2 et 1, Pro 2) : Aude\nBleue 8h-17h30 (préparatoires 0m90 à 1m30) : Simon\nJaune 8h30-17h (club 3, 2, 1 et élite) : Chloé\nBlanche 8h-17h30 (poneys 4, A, 3 et 2) : Manuella",
+      "urgent": false
+    },
+    {
+      "id": "m2",
+      "jour": "2026-10-31",
+      "texte": "Pistes du jour :\nGrand hall 8h-20h (poney élite, club E, as poney vitesse, finale 19h) : Manuella\nRouge 8h-17h45 (Am 2 et 1, Am élite, Pro 2 1m30) : Chloé\nBleue 8h-17h15 (préparatoires, Pro 3 vitesse, Am 2) : Isabelle\nJaune 8h-17h45 (poneys 4, 2 et 1, club E3, Am 3) : Simon\nBlanche 8h-17h45 (poneys 3, A et 2D) : Jérémie\nVerte 8h15-17h15 (club 3, 2 et 1 vitesse) : Aude",
+      "urgent": false
+    },
+    {
+      "id": "m3",
+      "jour": "2026-11-01",
+      "texte": "Pistes du jour :\nGrand hall 8h-18h15 (as poney, club E, poney élite) : Simon\nRouge 8h-17h45 (Am 2, Pro 3, Am 1, Pro 2, Am élite) : Louna\nBleue 8h-17h45 (préparatoires, Am 3 et 2) : Manuella\nJaune 8h30-17h (poney 2D, poney 1, club E3 et E2) : Isabelle\nBlanche 8h30-16h30 (poneys 4, A, 3 et 2) : Aude\nVerte 8h-17h30 (club 3, 2, 1 et club élite GP) : Jérémie",
+      "urgent": false
+    }
+  ],
+  "jours": [
+    {
+      "date": "2026-10-30",
+      "lettres": [
+        {
+          "usage": "",
+          "lettre": "H"
+        }
+      ],
+      "pistes": [
+        {
+          "piste": "GRAND HALL",
+          "photographe": "Jérémie"
+        },
+        {
+          "piste": "ROUGE",
+          "photographe": "Aude"
+        },
+        {
+          "piste": "BLEUE",
+          "photographe": "Simon"
+        },
+        {
+          "piste": "JAUNE",
+          "photographe": "Chloé"
+        },
+        {
+          "piste": "BLANCHE",
+          "photographe": "Manuella"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "lettres": [
+        {
+          "usage": "",
+          "lettre": "G"
+        }
+      ],
+      "pistes": [
+        {
+          "piste": "BLANCHE",
+          "photographe": "Jérémie"
+        },
+        {
+          "piste": "VERTE",
+          "photographe": "Aude"
+        },
+        {
+          "piste": "JAUNE",
+          "photographe": "Simon"
+        },
+        {
+          "piste": "ROUGE",
+          "photographe": "Chloé"
+        },
+        {
+          "piste": "GRAND HALL",
+          "photographe": "Manuella"
+        },
+        {
+          "piste": "BLEUE",
+          "photographe": "Isabelle"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "lettres": [
+        {
+          "usage": "",
+          "lettre": "F"
+        }
+      ],
+      "pistes": [
+        {
+          "piste": "VERTE",
+          "photographe": "Jérémie"
+        },
+        {
+          "piste": "BLANCHE",
+          "photographe": "Aude"
+        },
+        {
+          "piste": "GRAND HALL",
+          "photographe": "Simon"
+        },
+        {
+          "piste": "BLEUE",
+          "photographe": "Manuella"
+        },
+        {
+          "piste": "JAUNE",
+          "photographe": "Isabelle"
+        },
+        {
+          "piste": "ROUGE",
+          "photographe": "Louna"
+        }
+      ]
+    }
+  ]
+}

@@ -2,6 +2,14 @@
   "contrat": 1,
   "studio": "garennes",
   "nom": "Photos Les Garennes",
-  "publie_le": "2026-10-29T06:38:17Z",
-  "concours": []
+  "publie_le": "2026-10-29T07:20:10Z",
+  "concours": [
+    {
+      "id": "2026-11-01BJ31CSOTDA",
+      "nom": "BJ31 - CSO TDA",
+      "du": "2026-10-30",
+      "au": "2026-11-01",
+      "publie_le": "2026-10-29T07:20:10Z"
+    }
+  ]
 }
